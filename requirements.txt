@@ -22,7 +22,7 @@ google-auth==1.22.1
 google-auth-oauthlib==0.4.1
 google-pasta==0.2.0
 googleapis-common-protos==1.52.0
-grpcio==1.14.1
+grpcio==1.24.3
 h5py @ file:///opt/concourse/worker/volumes/live/98bee3fd-2687-4017-5421-d742d1f18c35/volume/h5py_1593454156895/work
 idna==2.10
 importlib-metadata @ file:///tmp/build/80754af9/importlib-metadata_1602276842396/work
@@ -55,7 +55,7 @@ nbconvert @ file:///opt/concourse/worker/volumes/live/d4b0787b-b6c8-4d28-5453-33
 nbformat==5.0.7
 nest-asyncio @ file:///tmp/build/80754af9/nest-asyncio_1601499549014/work
 notebook @ file:///opt/concourse/worker/volumes/live/d2f310db-b6ef-49ca-4ff6-cbb3a628fe1d/volume/notebook_1601501569294/work
-numpy @ file:///opt/concourse/worker/volumes/live/40d975a3-7e82-44c8-53df-feccdbce8b96/volume/numpy_and_numpy_base_1596233859108/work
+numpy==1.18.5
 oauthlib==3.1.0
 opt-einsum==3.1.0
 packaging==20.4
@@ -91,7 +91,7 @@ Send2Trash==1.5.0
 six==1.15.0
 sklearn==0.0
 tensorboard==2.1.1
-tensorflow==2.1.0
+tensorflow==2.1.2
 tensorflow-datasets==4.0.1
 tensorflow-estimator==2.1.0
 tensorflow-metadata==0.24.0
